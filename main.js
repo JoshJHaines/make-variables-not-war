@@ -18,9 +18,9 @@ myHeight = 66
 
 myFavoriteYear = 2013
 
-mySum = 1946
+mySum = 3 + 1918 + 24 + 1
 
-myProduct = 4992
+myProduct = 232 * 43 / 2 + 4
 
 myHeightAndAge = myHeight + myMentalAge
 
