@@ -8,17 +8,21 @@ myLastName = "Haines"
 
 myBestFriend = 'Karole'
 
-mySentence = "I ate lunch."
+mySentence = "My name is " + myFirstName + '' + myLastName + " and I ate lunch with " + myBestFriend + "!"
 
 myFavoriteNum = 3
 
 myMentalAge = 10
 
-myHeight = 6
+myHeight = 66
 
 myFavoriteYear = 2013
 
+mySum = 1946
 
+myProduct = 4992
+
+myHeightAndAge = myHeight + myMentalAge
 
 
 
