@@ -2,6 +2,21 @@
  * YOUR CODE BELOW *
  ******************/
 
+myFirstName = "Josh"
+
+myLastName = "Haines"
+
+myBestFriend = 'Karole'
+
+mySentence = "I ate lunch."
+
+myFavoriteNum = 3
+
+myMentalAge = 10
+
+myHeight = 6
+
+myFavoriteYear = 2013
 
 
 
